@@ -2,10 +2,13 @@
     padding-top: 0 !important;
 }
 @media screen and (max-width: 480px) {
-    #main #image-static {
+    #main #image-static, #main #image-static .fullimage-container {
         height: 250px !important;
     }
-    #main #image-static .fullimage-container {
-        height: 250px !important;
+    .wpb_wrapper #ultimate-heading-1827572900f525ca9 .uvc-main-heading h2 {
+        font-size: 50px;
+    }
+    .wpb_wrapper #ultimate-heading-1827572900f525ca9 .uvc-sub-heading h2 {
+        font-size: 30px;
     }
 }
