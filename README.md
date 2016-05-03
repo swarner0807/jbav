@@ -13,7 +13,7 @@
 ## Scale down large text when larger than screen size
 * One of the headers had a font size that was larger than the width of most mobile devices
 
-* Set font size of header and subheader to be smaller when screen with is < 480
+* Set font size of header and subheader to be smaller when screen width is < 480
 
 ## Usage:
 * Adding contents of style.css to your WordPress style sheet will implement these fixes
