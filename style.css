@@ -1,0 +1,11 @@
+#main {
+    padding-top: 0 !important;
+}
+@media screen and (max-width: 480px) {
+    #main #image-static {
+        height: 250px !important;
+    }
+    #main #image-static .fullimage-container {
+        height: 250px !important;
+    }
+}
